@@ -1,0 +1,26 @@
+.ImgButton{
+    border: none;
+    background-blend-mode: lighten;
+    background-color: black;
+}
+body{
+    background-image: url('https://th.bing.com/th/id/R.51d7531a652bcb7ef20e36c011d3044d?rik=7b79oFN3taxIkA&riu=http%3a%2f%2fwallup.net%2fwp-content%2fuploads%2f2016%2f01%2f90513-universe-galaxy-space.jpg&ehk=SNAvlCQAUs1y6JJnjU5oykJMKHINjMwK69Mu311VWi0%3d&risl=&pid=ImgRaw&r=0');
+    background-size: cover;
+    color:aliceblue ;
+}
+img{
+    background-blend-mode: normal;
+    border: 2px solid black;
+}
+
+.restartButton{
+height: 25px;
+width: 100px;
+background-color: black;
+color: aliceblue;
+border-radius: 10%;
+}
+.restartButton:hover{
+    background-color: red;
+    color: black;
+}
